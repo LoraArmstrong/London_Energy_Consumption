@@ -7,7 +7,7 @@ Exploration of smart electricity meter data from the London Data Store.
 
 **The goal**: Provide an estimate of the peak demand and the date for that demand, for this group of houses in 2016.  
 
-**The result**: Estimated peak demand is 75 ± 2 MWH, on 10 January, 2015. 
+**The result**: Estimated peak demand is 75 ± 2 MWH, on 10 January, 2016. 
 
 In addition to this README file, this repo includes:  
 
